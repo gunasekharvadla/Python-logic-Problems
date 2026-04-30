@@ -87,7 +87,7 @@ Follow this approach:
 32. Function to check even/odd
 33. Function to find max of 3 numbers
 34. Function to reverse string
-35. Function to count vowels
+35. Function to count vowels.
 
 ---
 
