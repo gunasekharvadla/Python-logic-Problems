@@ -1,6 +1,6 @@
 # 🧠 Python Logic Building Roadmap (Beginner → Pro)
 
-A structured collection of **100 Python problems** designed to improve **logical thinking, coding skills, and interview readiness**.
+A structured collection of **500 Python problems** designed to improve **logical thinking, coding skills, and interview readiness**.
 
 ---
 
@@ -30,9 +30,9 @@ Follow this approach:
 
 | Level           | Range    | Focus           |
 | --------------- | -------- | --------------- |
-| 🔹 Basic        | 1 – 35   | Fundamentals    |
-| 🔸 Intermediate | 36 – 70  | Core Logic      |
-| 🔥 Advanced     | 71 – 100 | Problem Solving |
+| 🔹 Basic        | 1 – 200   | Fundamentals    |
+| 🔸 Intermediate | 200 – 350  | Core Logic      |
+| 🔥 Advanced     | 350 – 500 | Problem Solving |
 
 ---
 
