@@ -8,10 +8,10 @@ b=int(input("Enter num2 "))
 c=int(input("Enter num3 "))
 
 
-if a > b & a > c :
+if a > b and a > c :
 
     print("a reater")
-elif b > a & b > c :
+elif b > a and b > c :
 
     print("b greater")
 
