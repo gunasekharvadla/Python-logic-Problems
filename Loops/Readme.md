@@ -1,4 +1,3 @@
-Loops – 50 Practice Questions
 Write a program to print numbers from 1 to 10 using loop.
 Write a program to print numbers from 10 to 1.
 Write a program to print even numbers from 1 to 100.
